@@ -24,3 +24,4 @@ while not gameover:
       chances-=1
   else:
     print("Game Over")
+    gameover=True
