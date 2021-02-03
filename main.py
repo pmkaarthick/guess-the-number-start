@@ -1,4 +1,6 @@
 import random
+from art import logo
+print(logo)
 print("Welcome to Number Guessing Game")
 level=input("Enter the difficulty level")
 if(level == "easy"):
